@@ -1,0 +1,297 @@
+Micro Maxi [product code=9000000, MSRP=52.14, condition=MINT, resale value=52.14, color=Gold, wheels=TWO, odometer=0] is added to the stock.
+Amicool [product code=6000000, MSRP=66.57, condition=MINT, resale value=66.57, battery type=D, number of batteries=5, battery level=100%, speed=113] is added to the stock.
+Action Johnny [product code=5000000, MSRP=12.38, condition=MINT, resale value=12.38, hair color=Pink, eye color=Black, kung-fu grip=true] is added to the stock.
+Hosim RC [product code=6000001, MSRP=88.18, condition=MINT, resale value=88.18, battery type=AAAA, number of batteries=5, battery level=100%, speed=216] is added to the stock.
+Soundwave [product code=7000000, MSRP=274.69, condition=MINT, resale value=274.69, battery type=NINE_VOLT, number of batteries=4, battery level=100%, sound=Death to humans!] is added to the stock.
+Data [product code=7000001, MSRP=419.17, condition=MINT, resale value=419.17, battery type=D, number of batteries=6, battery level=100%, sound=Oh dear!] is added to the stock.
+Robby [product code=7000002, MSRP=446.54, condition=MINT, resale value=446.54, battery type=AAAA, number of batteries=2, battery level=100%, sound=I...am...Suuuuperman.] is added to the stock.
+Roger [product code=3000000, MSRP=13.21, condition=MINT, resale value=13.21, hair color=Brunette, eye color=Blue] is added to the stock.
+Distianert Truck [product code=6000002, MSRP=124.14, condition=MINT, resale value=124.14, battery type=D, number of batteries=4, battery level=100%, speed=192] is added to the stock.
+METAKOO RC [product code=6000003, MSRP=96.22, condition=MINT, resale value=96.22, battery type=AAAA, number of batteries=2, battery level=100%, speed=108] is added to the stock.
+The next customer purchases Micro Maxi [product code=9000000, MSRP=52.14, condition=MINT, resale value=52.14, color=Gold, wheels=TWO, odometer=0] and begins to play with it...
+After play, Micro Maxi's condition is NEAR_MINT
+Micro Maxi [product code=9000000, MSRP=52.14, condition=NEAR_MINT, resale value=46.93, color=Gold, wheels=TWO, odometer=2] is added to the stock.
+The customer grows bored with the toy and trades it in for $46.93
+The next customer purchases Amicool [product code=6000000, MSRP=66.57, condition=MINT, resale value=66.57, battery type=D, number of batteries=5, battery level=100%, speed=113] and begins to play with it...
+Amicool races in circles at 113 mph!
+After play, Amicool's condition is NEAR_MINT
+Amicool [product code=6000000, MSRP=66.57, condition=NEAR_MINT, resale value=59.91, battery type=D, number of batteries=5, battery level=75%, speed=113] is added to the stock.
+The customer grows bored with the toy and trades it in for $59.91
+The next customer purchases Action Johnny [product code=5000000, MSRP=12.38, condition=MINT, resale value=12.38, hair color=Pink, eye color=Black, kung-fu grip=true] and begins to play with it...
+After play, Action Johnny's condition is NEAR_MINT
+Action Johnny [product code=5000000, MSRP=12.38, condition=NEAR_MINT, resale value=11.14, hair color=Pink, eye color=Black, kung-fu grip=true] is added to the stock.
+The customer grows bored with the toy and trades it in for $11.14
+The next customer purchases Hosim RC [product code=6000001, MSRP=88.18, condition=MINT, resale value=88.18, battery type=AAAA, number of batteries=5, battery level=100%, speed=216] and begins to play with it...
+Hosim RC races in circles at 216 mph!
+After play, Hosim RC's condition is NEAR_MINT
+Hosim RC [product code=6000001, MSRP=88.18, condition=NEAR_MINT, resale value=79.36, battery type=AAAA, number of batteries=5, battery level=75%, speed=216] is added to the stock.
+The customer grows bored with the toy and trades it in for $79.36
+The next customer purchases Soundwave [product code=7000000, MSRP=274.69, condition=MINT, resale value=274.69, battery type=NINE_VOLT, number of batteries=4, battery level=100%, sound=Death to humans!] and begins to play with it...
+Soundwave goes 'Death to humans!'
+After play, Soundwave's condition is NEAR_MINT
+Soundwave [product code=7000000, MSRP=274.69, condition=NEAR_MINT, resale value=247.22, battery type=NINE_VOLT, number of batteries=4, battery level=85%, sound=Death to humans!] is added to the stock.
+The customer grows bored with the toy and trades it in for $247.22
+The next customer purchases Data [product code=7000001, MSRP=419.17, condition=MINT, resale value=419.17, battery type=D, number of batteries=6, battery level=100%, sound=Oh dear!] and begins to play with it...
+Data goes 'Oh dear!'
+After play, Data's condition is NEAR_MINT
+Data [product code=7000001, MSRP=419.17, condition=NEAR_MINT, resale value=377.25, battery type=D, number of batteries=6, battery level=85%, sound=Oh dear!] is added to the stock.
+The customer grows bored with the toy and trades it in for $377.25
+The next customer purchases Robby [product code=7000002, MSRP=446.54, condition=MINT, resale value=446.54, battery type=AAAA, number of batteries=2, battery level=100%, sound=I...am...Suuuuperman.] and begins to play with it...
+Robby goes 'I...am...Suuuuperman.'
+After play, Robby's condition is NEAR_MINT
+Robby [product code=7000002, MSRP=446.54, condition=NEAR_MINT, resale value=401.89, battery type=AAAA, number of batteries=2, battery level=85%, sound=I...am...Suuuuperman.] is added to the stock.
+The customer grows bored with the toy and trades it in for $401.89
+The next customer purchases Roger [product code=3000000, MSRP=13.21, condition=MINT, resale value=13.21, hair color=Brunette, eye color=Blue] and begins to play with it...
+After play, Roger's condition is NEAR_MINT
+Roger [product code=3000000, MSRP=13.21, condition=NEAR_MINT, resale value=11.89, hair color=Brunette, eye color=Blue] is added to the stock.
+The customer grows bored with the toy and trades it in for $11.89
+The next customer purchases Distianert Truck [product code=6000002, MSRP=124.14, condition=MINT, resale value=124.14, battery type=D, number of batteries=4, battery level=100%, speed=192] and begins to play with it...
+Distianert Truck races in circles at 192 mph!
+After play, Distianert Truck's condition is NEAR_MINT
+Distianert Truck [product code=6000002, MSRP=124.14, condition=NEAR_MINT, resale value=111.73, battery type=D, number of batteries=4, battery level=75%, speed=192] is added to the stock.
+The customer grows bored with the toy and trades it in for $111.73
+The next customer purchases METAKOO RC [product code=6000003, MSRP=96.22, condition=MINT, resale value=96.22, battery type=AAAA, number of batteries=2, battery level=100%, speed=108] and begins to play with it...
+METAKOO RC races in circles at 108 mph!
+After play, METAKOO RC's condition is NEAR_MINT
+METAKOO RC [product code=6000003, MSRP=96.22, condition=NEAR_MINT, resale value=86.60, battery type=AAAA, number of batteries=2, battery level=75%, speed=108] is added to the stock.
+The customer grows bored with the toy and trades it in for $86.60
+The next customer purchases Micro Maxi [product code=9000000, MSRP=52.14, condition=NEAR_MINT, resale value=46.93, color=Gold, wheels=TWO, odometer=2] and begins to play with it...
+After play, Micro Maxi's condition is VERY_GOOD
+Micro Maxi [product code=9000000, MSRP=52.14, condition=VERY_GOOD, resale value=39.11, color=Gold, wheels=TWO, odometer=4] is added to the stock.
+The customer grows bored with the toy and trades it in for $39.11
+The next customer purchases Amicool [product code=6000000, MSRP=66.57, condition=NEAR_MINT, resale value=59.91, battery type=D, number of batteries=5, battery level=75%, speed=113] and begins to play with it...
+Amicool races in circles at 113 mph!
+After play, Amicool's condition is VERY_GOOD
+Amicool [product code=6000000, MSRP=66.57, condition=VERY_GOOD, resale value=49.93, battery type=D, number of batteries=5, battery level=50%, speed=113] is added to the stock.
+The customer grows bored with the toy and trades it in for $49.93
+The next customer purchases Action Johnny [product code=5000000, MSRP=12.38, condition=NEAR_MINT, resale value=11.14, hair color=Pink, eye color=Black, kung-fu grip=true] and begins to play with it...
+After play, Action Johnny's condition is VERY_GOOD
+Action Johnny [product code=5000000, MSRP=12.38, condition=VERY_GOOD, resale value=9.29, hair color=Pink, eye color=Black, kung-fu grip=true] is added to the stock.
+The customer grows bored with the toy and trades it in for $9.29
+The next customer purchases Hosim RC [product code=6000001, MSRP=88.18, condition=NEAR_MINT, resale value=79.36, battery type=AAAA, number of batteries=5, battery level=75%, speed=216] and begins to play with it...
+Hosim RC races in circles at 216 mph!
+After play, Hosim RC's condition is VERY_GOOD
+Hosim RC [product code=6000001, MSRP=88.18, condition=VERY_GOOD, resale value=66.14, battery type=AAAA, number of batteries=5, battery level=50%, speed=216] is added to the stock.
+The customer grows bored with the toy and trades it in for $66.14
+The next customer purchases Soundwave [product code=7000000, MSRP=274.69, condition=NEAR_MINT, resale value=247.22, battery type=NINE_VOLT, number of batteries=4, battery level=85%, sound=Death to humans!] and begins to play with it...
+Soundwave goes 'Death to humans!'
+After play, Soundwave's condition is VERY_GOOD
+Soundwave [product code=7000000, MSRP=274.69, condition=VERY_GOOD, resale value=206.02, battery type=NINE_VOLT, number of batteries=4, battery level=70%, sound=Death to humans!] is added to the stock.
+The customer grows bored with the toy and trades it in for $206.02
+The next customer purchases Data [product code=7000001, MSRP=419.17, condition=NEAR_MINT, resale value=377.25, battery type=D, number of batteries=6, battery level=85%, sound=Oh dear!] and begins to play with it...
+Data goes 'Oh dear!'
+After play, Data's condition is VERY_GOOD
+Data [product code=7000001, MSRP=419.17, condition=VERY_GOOD, resale value=314.38, battery type=D, number of batteries=6, battery level=70%, sound=Oh dear!] is added to the stock.
+The customer grows bored with the toy and trades it in for $314.38
+The next customer purchases Robby [product code=7000002, MSRP=446.54, condition=NEAR_MINT, resale value=401.89, battery type=AAAA, number of batteries=2, battery level=85%, sound=I...am...Suuuuperman.] and begins to play with it...
+Robby goes 'I...am...Suuuuperman.'
+After play, Robby's condition is VERY_GOOD
+Robby [product code=7000002, MSRP=446.54, condition=VERY_GOOD, resale value=334.91, battery type=AAAA, number of batteries=2, battery level=70%, sound=I...am...Suuuuperman.] is added to the stock.
+The customer grows bored with the toy and trades it in for $334.91
+The next customer purchases Roger [product code=3000000, MSRP=13.21, condition=NEAR_MINT, resale value=11.89, hair color=Brunette, eye color=Blue] and begins to play with it...
+After play, Roger's condition is VERY_GOOD
+Roger [product code=3000000, MSRP=13.21, condition=VERY_GOOD, resale value=9.91, hair color=Brunette, eye color=Blue] is added to the stock.
+The customer grows bored with the toy and trades it in for $9.91
+The next customer purchases Distianert Truck [product code=6000002, MSRP=124.14, condition=NEAR_MINT, resale value=111.73, battery type=D, number of batteries=4, battery level=75%, speed=192] and begins to play with it...
+Distianert Truck races in circles at 192 mph!
+After play, Distianert Truck's condition is VERY_GOOD
+Distianert Truck [product code=6000002, MSRP=124.14, condition=VERY_GOOD, resale value=93.11, battery type=D, number of batteries=4, battery level=50%, speed=192] is added to the stock.
+The customer grows bored with the toy and trades it in for $93.11
+The next customer purchases METAKOO RC [product code=6000003, MSRP=96.22, condition=NEAR_MINT, resale value=86.60, battery type=AAAA, number of batteries=2, battery level=75%, speed=108] and begins to play with it...
+METAKOO RC races in circles at 108 mph!
+After play, METAKOO RC's condition is VERY_GOOD
+METAKOO RC [product code=6000003, MSRP=96.22, condition=VERY_GOOD, resale value=72.16, battery type=AAAA, number of batteries=2, battery level=50%, speed=108] is added to the stock.
+The customer grows bored with the toy and trades it in for $72.16
+The next customer purchases Micro Maxi [product code=9000000, MSRP=52.14, condition=VERY_GOOD, resale value=39.11, color=Gold, wheels=TWO, odometer=4] and begins to play with it...
+After play, Micro Maxi's condition is GOOD
+Micro Maxi [product code=9000000, MSRP=52.14, condition=GOOD, resale value=36.50, color=Gold, wheels=TWO, odometer=6] is added to the stock.
+The customer grows bored with the toy and trades it in for $36.50
+The next customer purchases Amicool [product code=6000000, MSRP=66.57, condition=VERY_GOOD, resale value=49.93, battery type=D, number of batteries=5, battery level=50%, speed=113] and begins to play with it...
+Amicool races in circles at 113 mph!
+After play, Amicool's condition is GOOD
+Amicool [product code=6000000, MSRP=66.57, condition=GOOD, resale value=46.60, battery type=D, number of batteries=5, battery level=25%, speed=113] is added to the stock.
+The customer grows bored with the toy and trades it in for $46.60
+The next customer purchases Action Johnny [product code=5000000, MSRP=12.38, condition=VERY_GOOD, resale value=9.29, hair color=Pink, eye color=Black, kung-fu grip=true] and begins to play with it...
+After play, Action Johnny's condition is GOOD
+Action Johnny [product code=5000000, MSRP=12.38, condition=GOOD, resale value=8.67, hair color=Pink, eye color=Black, kung-fu grip=true] is added to the stock.
+The customer grows bored with the toy and trades it in for $8.67
+The next customer purchases Hosim RC [product code=6000001, MSRP=88.18, condition=VERY_GOOD, resale value=66.14, battery type=AAAA, number of batteries=5, battery level=50%, speed=216] and begins to play with it...
+Hosim RC races in circles at 216 mph!
+After play, Hosim RC's condition is GOOD
+Hosim RC [product code=6000001, MSRP=88.18, condition=GOOD, resale value=61.73, battery type=AAAA, number of batteries=5, battery level=25%, speed=216] is added to the stock.
+The customer grows bored with the toy and trades it in for $61.73
+The next customer purchases Soundwave [product code=7000000, MSRP=274.69, condition=VERY_GOOD, resale value=206.02, battery type=NINE_VOLT, number of batteries=4, battery level=70%, sound=Death to humans!] and begins to play with it...
+Soundwave goes 'Death to humans!'
+After play, Soundwave's condition is GOOD
+Soundwave [product code=7000000, MSRP=274.69, condition=GOOD, resale value=192.28, battery type=NINE_VOLT, number of batteries=4, battery level=55%, sound=Death to humans!] is added to the stock.
+The customer grows bored with the toy and trades it in for $192.28
+The next customer purchases Data [product code=7000001, MSRP=419.17, condition=VERY_GOOD, resale value=314.38, battery type=D, number of batteries=6, battery level=70%, sound=Oh dear!] and begins to play with it...
+Data goes 'Oh dear!'
+After play, Data's condition is GOOD
+Data [product code=7000001, MSRP=419.17, condition=GOOD, resale value=293.42, battery type=D, number of batteries=6, battery level=55%, sound=Oh dear!] is added to the stock.
+The customer grows bored with the toy and trades it in for $293.42
+The next customer purchases Robby [product code=7000002, MSRP=446.54, condition=VERY_GOOD, resale value=334.91, battery type=AAAA, number of batteries=2, battery level=70%, sound=I...am...Suuuuperman.] and begins to play with it...
+Robby goes 'I...am...Suuuuperman.'
+After play, Robby's condition is GOOD
+Robby [product code=7000002, MSRP=446.54, condition=GOOD, resale value=312.58, battery type=AAAA, number of batteries=2, battery level=55%, sound=I...am...Suuuuperman.] is added to the stock.
+The customer grows bored with the toy and trades it in for $312.58
+The next customer purchases Roger [product code=3000000, MSRP=13.21, condition=VERY_GOOD, resale value=9.91, hair color=Brunette, eye color=Blue] and begins to play with it...
+After play, Roger's condition is GOOD
+Roger [product code=3000000, MSRP=13.21, condition=GOOD, resale value=9.25, hair color=Brunette, eye color=Blue] is added to the stock.
+The customer grows bored with the toy and trades it in for $9.25
+The next customer purchases Distianert Truck [product code=6000002, MSRP=124.14, condition=VERY_GOOD, resale value=93.11, battery type=D, number of batteries=4, battery level=50%, speed=192] and begins to play with it...
+Distianert Truck races in circles at 192 mph!
+After play, Distianert Truck's condition is GOOD
+Distianert Truck [product code=6000002, MSRP=124.14, condition=GOOD, resale value=86.90, battery type=D, number of batteries=4, battery level=25%, speed=192] is added to the stock.
+The customer grows bored with the toy and trades it in for $86.90
+The next customer purchases METAKOO RC [product code=6000003, MSRP=96.22, condition=VERY_GOOD, resale value=72.16, battery type=AAAA, number of batteries=2, battery level=50%, speed=108] and begins to play with it...
+METAKOO RC races in circles at 108 mph!
+After play, METAKOO RC's condition is GOOD
+METAKOO RC [product code=6000003, MSRP=96.22, condition=GOOD, resale value=67.35, battery type=AAAA, number of batteries=2, battery level=25%, speed=108] is added to the stock.
+The customer grows bored with the toy and trades it in for $67.35
+The next customer purchases Micro Maxi [product code=9000000, MSRP=52.14, condition=GOOD, resale value=36.50, color=Gold, wheels=TWO, odometer=6] and begins to play with it...
+After play, Micro Maxi's condition is FAIR
+Micro Maxi [product code=9000000, MSRP=52.14, condition=FAIR, resale value=13.04, color=Gold, wheels=TWO, odometer=8] is added to the stock.
+The customer grows bored with the toy and trades it in for $13.04
+The next customer purchases Amicool [product code=6000000, MSRP=66.57, condition=GOOD, resale value=46.60, battery type=D, number of batteries=5, battery level=25%, speed=113] and begins to play with it...
+Amicool races in circles at 113 mph!
+After play, Amicool's condition is FAIR
+Amicool [product code=6000000, MSRP=66.57, condition=FAIR, resale value=16.64, battery type=D, number of batteries=5, battery level=0%, speed=113] is added to the stock.
+The customer grows bored with the toy and trades it in for $16.64
+The next customer purchases Action Johnny [product code=5000000, MSRP=12.38, condition=GOOD, resale value=8.67, hair color=Pink, eye color=Black, kung-fu grip=true] and begins to play with it...
+After play, Action Johnny's condition is FAIR
+Action Johnny [product code=5000000, MSRP=12.38, condition=FAIR, resale value=3.10, hair color=Pink, eye color=Black, kung-fu grip=true] is added to the stock.
+The customer grows bored with the toy and trades it in for $3.10
+The next customer purchases Hosim RC [product code=6000001, MSRP=88.18, condition=GOOD, resale value=61.73, battery type=AAAA, number of batteries=5, battery level=25%, speed=216] and begins to play with it...
+Hosim RC races in circles at 216 mph!
+After play, Hosim RC's condition is FAIR
+Hosim RC [product code=6000001, MSRP=88.18, condition=FAIR, resale value=22.05, battery type=AAAA, number of batteries=5, battery level=0%, speed=216] is added to the stock.
+The customer grows bored with the toy and trades it in for $22.05
+The next customer purchases Soundwave [product code=7000000, MSRP=274.69, condition=GOOD, resale value=192.28, battery type=NINE_VOLT, number of batteries=4, battery level=55%, sound=Death to humans!] and begins to play with it...
+Soundwave goes 'Death to humans!'
+After play, Soundwave's condition is FAIR
+Soundwave [product code=7000000, MSRP=274.69, condition=FAIR, resale value=68.67, battery type=NINE_VOLT, number of batteries=4, battery level=40%, sound=Death to humans!] is added to the stock.
+The customer grows bored with the toy and trades it in for $68.67
+The next customer purchases Data [product code=7000001, MSRP=419.17, condition=GOOD, resale value=293.42, battery type=D, number of batteries=6, battery level=55%, sound=Oh dear!] and begins to play with it...
+Data goes 'Oh dear!'
+After play, Data's condition is FAIR
+Data [product code=7000001, MSRP=419.17, condition=FAIR, resale value=104.79, battery type=D, number of batteries=6, battery level=40%, sound=Oh dear!] is added to the stock.
+The customer grows bored with the toy and trades it in for $104.79
+The next customer purchases Robby [product code=7000002, MSRP=446.54, condition=GOOD, resale value=312.58, battery type=AAAA, number of batteries=2, battery level=55%, sound=I...am...Suuuuperman.] and begins to play with it...
+Robby goes 'I...am...Suuuuperman.'
+After play, Robby's condition is FAIR
+Robby [product code=7000002, MSRP=446.54, condition=FAIR, resale value=111.64, battery type=AAAA, number of batteries=2, battery level=40%, sound=I...am...Suuuuperman.] is added to the stock.
+The customer grows bored with the toy and trades it in for $111.64
+The next customer purchases Roger [product code=3000000, MSRP=13.21, condition=GOOD, resale value=9.25, hair color=Brunette, eye color=Blue] and begins to play with it...
+After play, Roger's condition is FAIR
+Roger [product code=3000000, MSRP=13.21, condition=FAIR, resale value=3.30, hair color=Brunette, eye color=Blue] is added to the stock.
+The customer grows bored with the toy and trades it in for $3.30
+The next customer purchases Distianert Truck [product code=6000002, MSRP=124.14, condition=GOOD, resale value=86.90, battery type=D, number of batteries=4, battery level=25%, speed=192] and begins to play with it...
+Distianert Truck races in circles at 192 mph!
+After play, Distianert Truck's condition is FAIR
+Distianert Truck [product code=6000002, MSRP=124.14, condition=FAIR, resale value=31.04, battery type=D, number of batteries=4, battery level=0%, speed=192] is added to the stock.
+The customer grows bored with the toy and trades it in for $31.04
+The next customer purchases METAKOO RC [product code=6000003, MSRP=96.22, condition=GOOD, resale value=67.35, battery type=AAAA, number of batteries=2, battery level=25%, speed=108] and begins to play with it...
+METAKOO RC races in circles at 108 mph!
+After play, METAKOO RC's condition is FAIR
+METAKOO RC [product code=6000003, MSRP=96.22, condition=FAIR, resale value=24.06, battery type=AAAA, number of batteries=2, battery level=0%, speed=108] is added to the stock.
+The customer grows bored with the toy and trades it in for $24.06
+The next customer purchases Micro Maxi [product code=9000000, MSRP=52.14, condition=FAIR, resale value=13.04, color=Gold, wheels=TWO, odometer=8] and begins to play with it...
+After play, Micro Maxi's condition is POOR
+Micro Maxi [product code=9000000, MSRP=52.14, condition=POOR, resale value=5.21, color=Gold, wheels=TWO, odometer=10] is added to the stock.
+The customer grows bored with the toy and trades it in for $5.21
+The next customer purchases Amicool [product code=6000000, MSRP=66.57, condition=FAIR, resale value=16.64, battery type=D, number of batteries=5, battery level=0%, speed=113] and begins to play with it...
+The batteries are dead! Let's replace them...
+Amicool races in circles at 113 mph!
+After play, Amicool's condition is POOR
+Amicool [product code=6000000, MSRP=66.57, condition=POOR, resale value=6.66, battery type=D, number of batteries=5, battery level=75%, speed=113] is added to the stock.
+The customer grows bored with the toy and trades it in for $6.66
+The next customer purchases Action Johnny [product code=5000000, MSRP=12.38, condition=FAIR, resale value=3.10, hair color=Pink, eye color=Black, kung-fu grip=true] and begins to play with it...
+After play, Action Johnny's condition is POOR
+Action Johnny [product code=5000000, MSRP=12.38, condition=POOR, resale value=1.24, hair color=Pink, eye color=Black, kung-fu grip=true] is added to the stock.
+The customer grows bored with the toy and trades it in for $1.24
+The next customer purchases Hosim RC [product code=6000001, MSRP=88.18, condition=FAIR, resale value=22.05, battery type=AAAA, number of batteries=5, battery level=0%, speed=216] and begins to play with it...
+The batteries are dead! Let's replace them...
+Hosim RC races in circles at 216 mph!
+After play, Hosim RC's condition is POOR
+Hosim RC [product code=6000001, MSRP=88.18, condition=POOR, resale value=8.82, battery type=AAAA, number of batteries=5, battery level=75%, speed=216] is added to the stock.
+The customer grows bored with the toy and trades it in for $8.82
+The next customer purchases Soundwave [product code=7000000, MSRP=274.69, condition=FAIR, resale value=68.67, battery type=NINE_VOLT, number of batteries=4, battery level=40%, sound=Death to humans!] and begins to play with it...
+Soundwave goes 'Death to humans!'
+After play, Soundwave's condition is POOR
+Soundwave [product code=7000000, MSRP=274.69, condition=POOR, resale value=27.47, battery type=NINE_VOLT, number of batteries=4, battery level=25%, sound=Death to humans!] is added to the stock.
+The customer grows bored with the toy and trades it in for $27.47
+The next customer purchases Data [product code=7000001, MSRP=419.17, condition=FAIR, resale value=104.79, battery type=D, number of batteries=6, battery level=40%, sound=Oh dear!] and begins to play with it...
+Data goes 'Oh dear!'
+After play, Data's condition is POOR
+Data [product code=7000001, MSRP=419.17, condition=POOR, resale value=41.92, battery type=D, number of batteries=6, battery level=25%, sound=Oh dear!] is added to the stock.
+The customer grows bored with the toy and trades it in for $41.92
+The next customer purchases Robby [product code=7000002, MSRP=446.54, condition=FAIR, resale value=111.64, battery type=AAAA, number of batteries=2, battery level=40%, sound=I...am...Suuuuperman.] and begins to play with it...
+Robby goes 'I...am...Suuuuperman.'
+After play, Robby's condition is POOR
+Robby [product code=7000002, MSRP=446.54, condition=POOR, resale value=44.65, battery type=AAAA, number of batteries=2, battery level=25%, sound=I...am...Suuuuperman.] is added to the stock.
+The customer grows bored with the toy and trades it in for $44.65
+The next customer purchases Roger [product code=3000000, MSRP=13.21, condition=FAIR, resale value=3.30, hair color=Brunette, eye color=Blue] and begins to play with it...
+After play, Roger's condition is POOR
+Roger [product code=3000000, MSRP=13.21, condition=POOR, resale value=1.32, hair color=Brunette, eye color=Blue] is added to the stock.
+The customer grows bored with the toy and trades it in for $1.32
+The next customer purchases Distianert Truck [product code=6000002, MSRP=124.14, condition=FAIR, resale value=31.04, battery type=D, number of batteries=4, battery level=0%, speed=192] and begins to play with it...
+The batteries are dead! Let's replace them...
+Distianert Truck races in circles at 192 mph!
+After play, Distianert Truck's condition is POOR
+Distianert Truck [product code=6000002, MSRP=124.14, condition=POOR, resale value=12.41, battery type=D, number of batteries=4, battery level=75%, speed=192] is added to the stock.
+The customer grows bored with the toy and trades it in for $12.41
+The next customer purchases METAKOO RC [product code=6000003, MSRP=96.22, condition=FAIR, resale value=24.06, battery type=AAAA, number of batteries=2, battery level=0%, speed=108] and begins to play with it...
+The batteries are dead! Let's replace them...
+METAKOO RC races in circles at 108 mph!
+After play, METAKOO RC's condition is POOR
+METAKOO RC [product code=6000003, MSRP=96.22, condition=POOR, resale value=9.62, battery type=AAAA, number of batteries=2, battery level=75%, speed=108] is added to the stock.
+The customer grows bored with the toy and trades it in for $9.62
+The next customer purchases Micro Maxi [product code=9000000, MSRP=52.14, condition=POOR, resale value=5.21, color=Gold, wheels=TWO, odometer=10] and begins to play with it...
+After play, Micro Maxi's condition is BROKEN
+Micro Maxi [product code=9000000, MSRP=52.14, condition=BROKEN, resale value=0.00, color=Gold, wheels=TWO, odometer=12] is broken and discarded.
+The customer grows bored with the toy and trades it in for $0.00
+The next customer purchases Amicool [product code=6000000, MSRP=66.57, condition=POOR, resale value=6.66, battery type=D, number of batteries=5, battery level=75%, speed=113] and begins to play with it...
+Amicool races in circles at 113 mph!
+After play, Amicool's condition is BROKEN
+Amicool [product code=6000000, MSRP=66.57, condition=BROKEN, resale value=0.00, battery type=D, number of batteries=5, battery level=50%, speed=113] is broken and discarded.
+The customer grows bored with the toy and trades it in for $0.00
+The next customer purchases Action Johnny [product code=5000000, MSRP=12.38, condition=POOR, resale value=1.24, hair color=Pink, eye color=Black, kung-fu grip=true] and begins to play with it...
+After play, Action Johnny's condition is BROKEN
+Action Johnny [product code=5000000, MSRP=12.38, condition=BROKEN, resale value=0.00, hair color=Pink, eye color=Black, kung-fu grip=true] is broken and discarded.
+The customer grows bored with the toy and trades it in for $0.00
+The next customer purchases Hosim RC [product code=6000001, MSRP=88.18, condition=POOR, resale value=8.82, battery type=AAAA, number of batteries=5, battery level=75%, speed=216] and begins to play with it...
+Hosim RC races in circles at 216 mph!
+After play, Hosim RC's condition is BROKEN
+Hosim RC [product code=6000001, MSRP=88.18, condition=BROKEN, resale value=0.00, battery type=AAAA, number of batteries=5, battery level=50%, speed=216] is broken and discarded.
+The customer grows bored with the toy and trades it in for $0.00
+The next customer purchases Soundwave [product code=7000000, MSRP=274.69, condition=POOR, resale value=27.47, battery type=NINE_VOLT, number of batteries=4, battery level=25%, sound=Death to humans!] and begins to play with it...
+Soundwave goes 'Death to humans!'
+After play, Soundwave's condition is BROKEN
+Soundwave [product code=7000000, MSRP=274.69, condition=BROKEN, resale value=0.00, battery type=NINE_VOLT, number of batteries=4, battery level=10%, sound=Death to humans!] is broken and discarded.
+The customer grows bored with the toy and trades it in for $0.00
+The next customer purchases Data [product code=7000001, MSRP=419.17, condition=POOR, resale value=41.92, battery type=D, number of batteries=6, battery level=25%, sound=Oh dear!] and begins to play with it...
+Data goes 'Oh dear!'
+After play, Data's condition is BROKEN
+Data [product code=7000001, MSRP=419.17, condition=BROKEN, resale value=0.00, battery type=D, number of batteries=6, battery level=10%, sound=Oh dear!] is broken and discarded.
+The customer grows bored with the toy and trades it in for $0.00
+The next customer purchases Robby [product code=7000002, MSRP=446.54, condition=POOR, resale value=44.65, battery type=AAAA, number of batteries=2, battery level=25%, sound=I...am...Suuuuperman.] and begins to play with it...
+Robby goes 'I...am...Suuuuperman.'
+After play, Robby's condition is BROKEN
+Robby [product code=7000002, MSRP=446.54, condition=BROKEN, resale value=0.00, battery type=AAAA, number of batteries=2, battery level=10%, sound=I...am...Suuuuperman.] is broken and discarded.
+The customer grows bored with the toy and trades it in for $0.00
+The next customer purchases Roger [product code=3000000, MSRP=13.21, condition=POOR, resale value=1.32, hair color=Brunette, eye color=Blue] and begins to play with it...
+After play, Roger's condition is BROKEN
+Roger [product code=3000000, MSRP=13.21, condition=BROKEN, resale value=0.00, hair color=Brunette, eye color=Blue] is broken and discarded.
+The customer grows bored with the toy and trades it in for $0.00
+The next customer purchases Distianert Truck [product code=6000002, MSRP=124.14, condition=POOR, resale value=12.41, battery type=D, number of batteries=4, battery level=75%, speed=192] and begins to play with it...
+Distianert Truck races in circles at 192 mph!
+After play, Distianert Truck's condition is BROKEN
+Distianert Truck [product code=6000002, MSRP=124.14, condition=BROKEN, resale value=0.00, battery type=D, number of batteries=4, battery level=50%, speed=192] is broken and discarded.
+The customer grows bored with the toy and trades it in for $0.00
+The next customer purchases METAKOO RC [product code=6000003, MSRP=96.22, condition=POOR, resale value=9.62, battery type=AAAA, number of batteries=2, battery level=75%, speed=108] and begins to play with it...
+METAKOO RC races in circles at 108 mph!
+After play, METAKOO RC's condition is BROKEN
+METAKOO RC [product code=6000003, MSRP=96.22, condition=BROKEN, resale value=0.00, battery type=AAAA, number of batteries=2, battery level=50%, speed=108] is broken and discarded.
+The customer grows bored with the toy and trades it in for $0.00
+The toy store is out of stock! Time to close!
